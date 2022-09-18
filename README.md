@@ -75,7 +75,7 @@
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.7),
-                                          rgba(0,0,0,0.7)),url(img/background.jpg);
+                                          rgba(0,0,0,0.7)),url(https://user-images.githubusercontent.com/100946873/190887582-cbcda282-963e-4691-8a1b-6146c5a70c6b.jpg);
     background-position:center;
     background-size: cover;
     padding: 0 8%;
@@ -155,16 +155,16 @@ button{
     transform: translateY(-10px);
 }
 .card1{
-    background-image: url(img//img1.jpg);
+    background-image: url(https://user-images.githubusercontent.com/100946873/190887584-aed688ae-7247-474e-b795-a74bee781b88.jpg);
 }
 .card2{
-    background-image: url(img/img2.jpg);
+    background-image: url(https://user-images.githubusercontent.com/100946873/190887589-437c713d-7256-4231-b55b-a9c9b61df98e.jpg);
 }
 .card3{
-    background-image: url(img//img3.jpg);
+    background-image: url(https://user-images.githubusercontent.com/100946873/190887592-afd5d54a-1036-46c0-bfa4-837706474ffa.jpg);
 }
 .card4{
-    background-image: url(img/img4.jpg);
+    background-image: url(https://user-images.githubusercontent.com/100946873/190887601-a108c137-8aec-4b1c-9d17-f186fd2f9915.jpg);
 }
 h5{
     color:white;
