@@ -34,6 +34,8 @@
             </div>
             <div class="col">
                 <div class="card card1">
+                    <img src="https://user-images.githubusercontent.com/100946873/190887584-aed688ae-7247-474e-b795-a74bee781b88.jpg" class="card1"/>
+                </ul>
                     <h5>New York</h5>
                     <p>
                         A cidade de Nova York compreende 5 distritos situados no encontro do rio Hudson com o Oceano Atlântico
