@@ -12,13 +12,13 @@
 <body>
     <div class="container">
         <div class="navbar">
-            <a href="index.html"> <img src="![menu](https://user-images.githubusercontent.com/100946873/190887669-e554e8a3-2faa-45eb-9202-63b9aebfcb15.png)" class="logo"></a>
+            <a href="index.html"> <img src="![logo](https://user-images.githubusercontent.com/100946873/190887662-a9cacfbc-236e-458b-8483-5fbbd5795917.png)" class="logo"></a>
             <nav>
                 <ul>
                     <li> <a href="#">PAGINA INICIAL</a></li>
                     <li> <a href="#">REGIÃO</a></li>
                     <li> <a href="#">SOBRE</a></li>
-                    <img src="img/menu.png" class="menu-icon"/>
+                    <img src="![menu](https://user-images.githubusercontent.com/100946873/190887669-e554e8a3-2faa-45eb-9202-63b9aebfcb15.png)" class="menu-icon"/>
                 </ul>
             </nav>
         </div>
