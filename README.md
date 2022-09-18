@@ -34,9 +34,9 @@
             </div>
             <div class="col">
                 <div class="card card1">
-                    <img src="https://user-images.githubusercontent.com/100946873/190887584-aed688ae-7247-474e-b795-a74bee781b88.jpg" class="card1"/>
                 </ul>
                     <h5>New York</h5>
+                <img src="https://user-images.githubusercontent.com/100946873/190887584-aed688ae-7247-474e-b795-a74bee781b88.jpg" class="card1"/>
                     <p>
                         A cidade de Nova York compreende 5 distritos situados no encontro do rio Hudson com o Oceano Atlântico
                     </p>
@@ -45,6 +45,7 @@
                 <div class="col">
                     <div class="card card2">
                         <h5>Dubai</h5>
+                        <img src="https://user-images.githubusercontent.com/100946873/190887589-437c713d-7256-4231-b55b-a9c9b61df98e.jpg" class="card2"/>
                         <p>
                             Dubai é uma cidade e um emirado dos Emirados Árabes Unidos conhecida pelos shoppings de luxo
                         </p>
@@ -52,6 +53,8 @@
             <div class="col">
                 <div class="card card3">
                     <h5>Roma</h5>
+                    <img src="https://user-images.githubusercontent.com/100946873/190887592-afd5d54a-1036-46c0-bfa4-837706474ffa.jpg" class="card3"/>
+                    
                     <p>
                         Roma, a capital da Itália, é uma cidade cosmopolita, enorme, com quase 3.000 anos de arte
                     </p>
@@ -59,6 +62,7 @@
         <div class="col">
             <div class="card card4">
                 <h5>Los Angeles</h5>
+                 <img src="https://user-images.githubusercontent.com/100946873/190887601-a108c137-8aec-4b1c-9d17-f186fd2f9915.jpg" class="card4"/>
                 <p>
                     Los Angeles é uma grande cidade do sul da Califórnia e também o centro da indústria de cinema e televisão do país. 
                 </p>
